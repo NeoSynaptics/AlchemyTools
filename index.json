@@ -1,5 +1,16 @@
 {
   "version": "1.0.0",
   "description": "AlchemyTools — reusable code library extracted from NeoSynaptics projects",
-  "tools": []
+  "tools": [
+    {
+      "name": "task-decomposer",
+      "display_name": "Task Decomposer",
+      "description": "Breaks high-level task descriptions or PRDs into ordered, dependency-aware, atomic subtasks using any LLM backend.",
+      "language": "python",
+      "category": "llm",
+      "path": "python/llm/task-decomposer",
+      "tags": ["decomposition", "planning", "tasks", "dependencies", "prd", "subtasks"],
+      "created": "2026-03-01"
+    }
+  ]
 }

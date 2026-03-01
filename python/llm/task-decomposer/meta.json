@@ -1,0 +1,13 @@
+{
+  "name": "task-decomposer",
+  "display_name": "Task Decomposer",
+  "description": "Breaks high-level task descriptions or PRDs into ordered, dependency-aware, atomic subtasks using any LLM backend.",
+  "language": "python",
+  "category": "llm",
+  "tags": ["decomposition", "planning", "tasks", "dependencies", "prd", "subtasks", "ollama", "openai"],
+  "origin_repo": "NeoSynaptics/AlchemyGoldOS",
+  "origin_file": "gold/tasks/decomposer.py",
+  "created": "2026-03-01",
+  "version": "1.0.0",
+  "dependencies": ["httpx"]
+}
